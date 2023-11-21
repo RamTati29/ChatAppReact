@@ -13,12 +13,14 @@ This project is a real-time chat application built using React and ChatEngine. C
     Create a new project to obtain the Project ID, which is essential for integrating ChatEngine into your React application.
 
   Clone the Repository:
-    git clone https://github.com/your-username/your-react-chat-app.git
-    cd your-react-chat-app
+      
+      git clone [https://github.com/your-username/your-react-chat-app.git](https://github.com/RamTati29/ChatAppReact.git)
+      cd your-react-chat-app
   
   Install Dependencies:
-    npm install
-    Configure ChatEngine:
+    
+      npm install
+      Configure ChatEngine:
     
   Open your React application code.
     Locate the ChatEngine configuration section (usually found in a file like Chat.js or App.js).
@@ -28,6 +30,7 @@ This project is a real-time chat application built using React and ChatEngine. C
     enter your project id which you will get after creating project in chatEngine
   
   Run the Application:
+    
     npm start
 
   Your React chat application should now be running locally.
