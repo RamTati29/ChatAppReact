@@ -39,7 +39,7 @@ This project is a real-time chat application built using React and ChatEngine. C
   To use the chat application, you need to create a user from the ChatEngine site.
   Open the application in your web browser and test the chat functionality. Create new chat rooms, send messages, and ensure real-time updates are working.
   
-# output of projects 
+# Output of projects 
 
 # 1. Login Page
 
